@@ -1,0 +1,5 @@
+/media/Qi/kgerard/L3/structures/TEA/propre/bicoloretree/tmp/lib/libbicoloreTree.so.0.0.1
+/media/Qi/kgerard/L3/structures/TEA/propre/bicoloretree/tmp/lib/libbicoloreTree.so.0
+/media/Qi/kgerard/L3/structures/TEA/propre/bicoloretree/tmp/lib/libbicoloreTree.so
+/media/Qi/kgerard/L3/structures/TEA/propre/bicoloretree/tmp/lib/libbicoloreTree.a
+/media/Qi/kgerard/L3/structures/TEA/propre/bicoloretree/tmp/include/bicoloreTree.h

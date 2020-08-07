@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/Qi/kgerard/L3/structures/TEA/propre/bicoloretree/src/rb_tree/bicoloreTree.c
+bicoloreTree.h
+/media/Qi/kgerard/L3/structures/TEA/propre/bicoloretree/src/rb_tree/bicoloreTree.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stdarg.h
+-
+time.h
+-
+stdbool.h
+-
+
+/media/Qi/kgerard/L3/structures/TEA/propre/bicoloretree/src/rb_tree/bicoloreTree.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stdarg.h
+-
+time.h
+-
+stdbool.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/test-bicolore.dir/bicoloreTree.c.o  -o test-bicolore -Wl,-rpath,/media/Qi/kgerard/L3/structures/TEA/propre/bicoloretree/build/rb_tree libbicoloreTree.so.0.0.1 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbicoloreTree.a  CMakeFiles/bicoloreTreeStatic.dir/bicoloreTree.c.o
+/usr/bin/ranlib libbicoloreTree.a

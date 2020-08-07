@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC   -shared -Wl,-soname,libbicoloreTree.so.0 -o libbicoloreTree.so.0.0.1 CMakeFiles/bicoloreTree.dir/bicoloreTree.c.o 
